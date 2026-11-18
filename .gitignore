@@ -1,0 +1,19 @@
+# Keep large media out of git (GitHub rejects files >100 MB).
+# Folder structure and READMEs are still tracked.
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.mxf
+*.braw
+*.r3d
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.prproj
+*.drp
+.DS_Store
