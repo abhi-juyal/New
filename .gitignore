@@ -17,3 +17,12 @@
 *.prproj
 *.drp
 .DS_Store
+
+# Tooling
+node_modules/
+templates/*/out/
+templates/*/renders/
+templates/*/.hyperframes/
+projects/*/renders/
+.hyperframes/
+__pycache__/
